@@ -1,0 +1,25 @@
+{
+  "name": "react_country_finder",
+  "version": "1.0.1",
+  "description": "A way to get the country from a client",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thorvaldemar/country_finder.git"
+  },
+  "keywords": [
+    "country",
+    "js",
+    "typescript",
+    "findcountry"
+  ],
+  "author": "Thor Bilsby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thorvaldemar/country_finder/issues"
+  },
+  "homepage": "https://github.com/thorvaldemar/country_finder#readme"
+}
