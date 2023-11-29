@@ -4,7 +4,7 @@ This api and module can be used to get your clients country details. You can use
 ## Use it as an API
 Write the following in the HTML head tag, to use the API:
 ```html
-<script src="https://thorvaldemar.github.io/country_finder/api.js"></script>
+<script src="https://api.salusinco.dk/api.js"></script>
 ```
 You can now use the API from another script the following way:
 ```javascript
